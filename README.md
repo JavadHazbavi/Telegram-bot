@@ -21,3 +21,7 @@ The bot can respond to commands and recognize specific messages, making it easy 
 - python-telegram-bot
 - Telegram Bot API
 - Async/Await
+
+## 📄 License
+
+This project is open source and available under the MIT License.
