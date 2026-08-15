@@ -8,7 +8,7 @@ The bot can respond to commands and recognize specific messages, making it easy 
 
 ## Features
 
-- Responds to `/start`, `/help`, and custom commands
+- Responds to `/start`, `/help`, and `/custom` commands
 - Recognizes specific Persian messages
 - Supports private chats and Telegram groups
 - Handles both regular groups and supergroups
